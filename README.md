@@ -45,7 +45,3 @@ We're excited to have the community involved! While we're still establishing for
 - Open issues for bugs or feature requests
 - Join discussions about the project's direction
 - Join our [Discord](https://discord.gg/Kg56f7u2eW)
-
-## License
-
-Coming soon.
