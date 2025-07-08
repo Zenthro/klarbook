@@ -1,6 +1,6 @@
 # Klarbook
 
-An open-source alternative to QuickBooks for modern businesses + powered by the latest tech and AI.
+An open-source alternative to QuickBooks for modern businesses, powered by the latest tech and AI.
 
 ## About
 
@@ -8,24 +8,44 @@ Klarbook is a comprehensive accounting and financial management solution designe
 
 ## Current Status
 
-> [!IMPORTANT]
-> We are in the process of open-sourcing our codebase.
+> [!NOTE]
+> This project is in early stage development.
 
-For the past 12+ months, we have been developing Klarbook in our spare time with the goal of building a robust, feature-rich accounting platform from the ground up.
+We've been developing Klarbook for over 12 months in our spare time, and we've now released most of our code to the open-source community. We're currently working on adding more features and improving the platform.
 
-## What's Coming
+## Tech Stack
 
-Stay tuned as we prepare to release:
+- **Frontend**: [Nuxt 4](https://nuxt.com/) + [Vue.js](https://vuejs.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Backend**: [Nitro](https://nitro.unjs.io/)
+- **Background Jobs**: [Trigger.dev](https://trigger.dev/)
+- **Database**: Postgres, Drizzle ORM
+- **Integrations**: Various banking data providers
 
-- Complete source code
-- Documentation and setup guides
-- Contribution guidelines
-- Roadmap and feature specifications
+### Why Vue/Nuxt instead of React?
+
+We chose Vue and Nuxt because it's what we know best. While we wouldn't refactor to Next.js, we might consider React Router with Vite in the future if needed.
+
+## Immediate Roadmap
+
+We're actively working on a comprehensive roadmap and task list for the project.
+
+## Features (In Development)
+
+- Invoice processing
+- Bank transaction syncing
+- Document management and OCR
+- Integration with popular payment providers
+- AI-powered transaction categorization
 
 ## Get Involved
 
-We're excited to share Klarbook with the open source community soon. Watch this repository for updates on our public release.
+We're excited to have the community involved! While we're still establishing formal contribution guidelines, feel free to:
+
+- Open issues for bugs or feature requests
+- Join discussions about the project's direction
+- Join our [Discord](https://discord.gg/Kg56f7u2eW)
 
 ## License
 
-Coming soon with the code release.
+Coming soon.
