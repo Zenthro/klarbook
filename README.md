@@ -1,6 +1,6 @@
 # Klarbook
 
-An open source alternative to QuickBooks for modern businesses.
+An open-source alternative to QuickBooks for modern businesses + powered by the latest tech and AI.
 
 ## About
 
@@ -29,7 +29,3 @@ We're excited to share Klarbook with the open source community soon. Watch this 
 ## License
 
 Coming soon with the code release.
-
----
-
-_Built with ❤️ for the open source community_
