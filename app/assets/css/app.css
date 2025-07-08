@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@theme {
+  --font-family-sans: "Inter", sans-serif;
+
+  /* Gray Alpha */
+  --background-color-gray-alpha-100: oklch(from var(--color-zinc-500) l c h / 0.051);
+  --background-color-gray-alpha-200: oklch(from var(--color-zinc-500) l c h / 0.081);
+  --background-color-gray-alpha-300: oklch(from var(--color-zinc-500) l c h / 0.101);
+  --background-color-gray-alpha-400: oklch(from var(--color-zinc-500) l c h / 0.081);
+  --background-color-gray-alpha-500: oklch(from var(--color-zinc-500) l c h / 0.211);
+  --background-color-gray-alpha-600: oklch(from var(--color-zinc-500) l c h / 0.341);
+  --background-color-gray-alpha-700: oklch(from var(--color-zinc-500) l c h / 0.441);
+  --background-color-gray-alpha-800: oklch(from var(--color-zinc-500) l c h / 0.511);
+  --background-color-gray-alpha-900: oklch(from var(--color-zinc-500) l c h / 0.611);
+  --background-color-gray-alpha-950: oklch(from var(--color-zinc-500) l c h / 0.911);
+
+  /* Red Alpha */
+  --background-color-red-alpha-100: oklch(from var(--color-red-500) l c h / 0.051);
+  --background-color-red-alpha-200: oklch(from var(--color-red-500) l c h / 0.081);
+  --background-color-red-alpha-300: oklch(from var(--color-red-500) l c h / 0.101);
+  --background-color-red-alpha-400: oklch(from var(--color-red-500) l c h / 0.081);
+  --background-color-red-alpha-500: oklch(from var(--color-red-500) l c h / 0.211);
+  --background-color-red-alpha-600: oklch(from var(--color-red-500) l c h / 0.341);
+  --background-color-red-alpha-700: oklch(from var(--color-red-500) l c h / 0.441);
+  --background-color-red-alpha-800: oklch(from var(--color-red-500) l c h / 0.511);
+  --background-color-red-alpha-900: oklch(from var(--color-red-500) l c h / 0.611);
+  --background-color-red-alpha-950: oklch(from var(--color-red-500) l c h / 0.911);
+}
+
+html,
+body,
+#__nuxt {
+  height: 100%;
+  background-color: var(--color-zinc-50);
+}

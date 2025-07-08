@@ -9,7 +9,9 @@ Klarbook is a comprehensive accounting and financial management solution designe
 ## Current Status
 
 > [!IMPORTANT]
-> This repository is currently empty. We are in the process of open sourcing our codebase. Our team has been developing Klarbook in stealth mode for the past 12+ months, building a robust and feature-rich accounting platform from the ground up.
+> We are in the process of open-sourcing our codebase.
+
+For the past 12+ months, we have been developing Klarbook in our spare time with the goal of building a robust, feature-rich accounting platform from the ground up.
 
 ## What's Coming
 
