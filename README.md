@@ -1,3 +1,5 @@
+![](public/klarbook-github.png)
+
 # Klarbook
 
 An open-source alternative to QuickBooks for modern businesses, powered by the latest tech and AI.
@@ -24,7 +26,7 @@ We've been developing Klarbook for over 12 months in our spare time, and we've n
 
 ### Why Vue/Nuxt instead of React?
 
-We chose Vue and Nuxt because it's what we know best. While we wouldn't refactor to Next.js, we might consider React Router with Vite in the future if needed.
+We chose Vue and Nuxt because it's what we know best.
 
 ## Immediate Roadmap
 
